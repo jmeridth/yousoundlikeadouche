@@ -1,5 +1,3 @@
-# Template Repository
+# You Sound Like A Douche
 
-My personal GitHub Repository template.
-
-If you use this, please search for `jmeridth*` and replace with your own GitHub username and/or email address.
+A few words that I have found to be overused and/or misused in the tech industry that make people sound like a douche.  Just use regular words.

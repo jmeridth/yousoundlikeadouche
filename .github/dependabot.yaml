@@ -5,3 +5,7 @@ updates:
     schedule:
       interval: 'weekly'
       timezone: 'America/Chicago'
+    labels:
+      - "dependabot"
+      - "dependencies"
+      - "github-actions"
